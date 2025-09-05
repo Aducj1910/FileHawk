@@ -1,0 +1,25 @@
+# FileFinder - Local Semantic File Search Tool
+# Core dependencies (required)
+sentence-transformers
+chromadb
+pdfplumber
+
+# API Server dependencies
+flask
+flask-cors
+
+# Extended file type support (optional but recommended)
+python-docx
+pandas
+openpyxl
+beautifulsoup4
+
+# Additional file format support
+striprtf
+odfpy
+python-pptx
+ebooklib
+extract-msg
+PyYAML
+
+# Install with: pip install -r requirements.txt 
